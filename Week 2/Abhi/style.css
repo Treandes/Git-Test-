@@ -1,0 +1,33 @@
+/* Put in your css here */
+p{
+  color:green;
+}
+h1{
+  color: red;
+  font-size: 50px;
+}
+body{
+  background: black;
+  font-family: helvetica;
+}
+li{
+  display:inline;
+  padding:10px 10px 10px 10px;
+}
+ul{
+  background:rgba(0,0,0,.4);
+}
+header {
+  text-align: center;
+  background: url('http://s4.postimg.org/9n4i69nml/Water_fall.jpg');
+  background-size: cover;
+  color: white;
+}
+a{
+  color:yellow;
+  font-size: 25px;
+}
+a:hover{
+  color: orange;
+  background: black;
+}

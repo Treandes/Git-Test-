@@ -1,0 +1,27 @@
+p{
+    color:gold;
+}
+h1{
+    color:blue;
+    font-family:verdana;
+    font-size: 50px;
+}
+body{
+    backrod: blue;
+    font-family:helvetica;
+}
+
+li{
+    display:inline;
+}padding:10px 10px 10px 1opx
+}
+ul{
+    backround:rgb(0,0,0,.4)
+}
+header {
+    text-align: center;
+background: url('http://s4.posting.org/9n4i69nml/mountain.jpg');
+    background-size: cover
+    corlor: white;
+    
+}

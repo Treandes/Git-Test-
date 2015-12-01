@@ -1,0 +1,25 @@
+/* Put in your css here */
+p{
+    color:orange;
+    font-size:50px;
+}
+
+h1{
+    color:red;
+    font-family:50px;
+}
+body{
+    background:purple;
+    font-family:verdana;
+}
+li{
+display:inline
+padding:10px10px10px
+}
+ul{
+    background:rgba(0,0,0,4)
+}
+header{
+    text-align: center;
+}
+    

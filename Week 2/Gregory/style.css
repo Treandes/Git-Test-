@@ -1,0 +1,27 @@
+/* Put in your css here */
+p{
+  color:red;
+}
+h1{
+    color:gold;
+    font-family:arial;
+    font-size: 30px;
+}
+body{
+  background: orange;
+}
+li{
+  display:inline-box;
+  padding:10px 10px 10px 10px;
+}
+ul{
+  background:rgba(0,0,0,0.4);
+}
+header{
+  text-align:center;
+  background:url("http://us.cdn281.fansshare.com/photos/wallpaper/nook-wallpaper-cool-wallpaper-download-desktop-backgrounds-desktop-1402315777.jpg");
+background-size:cover;
+}
+a:hover{
+  color: orange;
+  
